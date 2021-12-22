@@ -30,3 +30,4 @@ class Rectangle:
  s = Square(1)
  print(r.rectangle_area(r.side_a, r.side_b))
  print(s.rectangle_area(s.side, s.side))
+ 
